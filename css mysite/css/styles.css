@@ -1,0 +1,150 @@
+body{
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    line-height: 1.7;
+}
+.Bio{
+    background-color:#DAFFFB ;
+    position: relative;
+    height: 720px;
+}
+#name{
+    font-family: 'Sacramento', cursive;
+    font-size: 35px;
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    color: #CDFCF6;
+
+}
+.p1{
+    color: #CDFCF6;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    top: 145px;
+    left: 566px;
+}
+img{
+    width: 100%;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+hr{
+    margin: 100px auto;
+    border: dotted;
+    color: grey;
+    border-width: thick;
+    width: 5%;
+    border-bottom: none;
+}
+
+#sk{
+    
+    font-family: 'Black Ops One', sans-serif;
+    font-size: none;
+    color: #21cfe2;
+   
+}
+.myself{     
+    width: auto;
+    height: auto;
+}
+
+.Skills{
+    width: auto;
+    margin: auto;
+}
+.web_dev{
+
+    width: 20%;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+.web_div{
+    margin: 100px auto 100px auto;
+    width: 70%;
+    text-align: left;
+    line-height: 1.7;
+}
+
+.java{
+    width: 20%;
+    height: auto;
+    float: right;
+    margin-right: 20px;
+}
+
+#para{
+    position: relative;
+    top: -24px;
+    
+
+}
+label{
+    margin-right: 20px;
+}
+
+.contact_page{
+    text-align: left;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    margin-bottom: 30px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .bottom_container{
+    height: 80px;
+    margin-top: 40px;
+    background-color: #CDFCF6;
+    padding: 20px;
+  }
+
+
+  .whatsapp{
+    color: #21cfe2;
+    right: 10px;
+    right: 20px;
+    position: relative;
+    top: 20px; 
+  }
+
+  .insta{
+    position: relative;
+    top: 20px;
+    left: 20px;
+  }
